@@ -1,14 +1,14 @@
 {
   "workflowApiVersion": "1.1",
   "metaData": {
-    "icon": "images/icon.png",
-    "iconSmall": "images/iconSmall.png",
+    "icon": "images/icon1.png",
+    "iconSmall": "images/iconSmall1.png",
     "category": "message"
   },
   "type": "REST",
   "lang": {
     "en-US": {
-      "name": "Template",
+      "name": "praful's custom activity",
       "description": "A Template for a custom Journey Builder activity",
       "step1Label": "Configure Activity"
     }
